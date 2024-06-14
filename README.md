@@ -5,16 +5,16 @@ This project was created in Ukelele v3.5.12 for my personal use, because i could
 
 ### My Spanish (Latin America) keyboard ###
 
-![spanish latam keyboard](https://imgur.com/a/8ZBHL5r.png)
+![WhatsApp Image 2024-06-13 at 10 33 18 PM](https://github.com/jkroca/mac-keylayout/assets/99946612/f38d3c66-bec3-4a24-a969-95a59b92549b)
 
 ### Ukelele layouts ###
 
 - _**Modifier: None**_
-![without modifiers](https://imgur.com/a/MMytFgV.png)
+![Captura de pantalla 2024-06-13 a la(s) 10 50 14 p  m](https://github.com/jkroca/mac-keylayout/assets/99946612/f644e8d2-42db-49e7-a6a0-a703646bb607)
 
 - _**Modifier: Shift**_
-![with shift modifier](https://imgur.com/a/cORV1F8.png)
+![Captura de pantalla 2024-06-13 a la(s) 10 52 08 p  m](https://github.com/jkroca/mac-keylayout/assets/99946612/dce9c397-f0a1-4d5e-bf3e-987da360d4dd)
 
 - _**Modifier: Option (Alt)**_
-![with option modifier](https://imgur.com/a/C4AOYZn.png)
+![Captura de pantalla 2024-06-13 a la(s) 10 53 40 p  m](https://github.com/jkroca/mac-keylayout/assets/99946612/fb4338ac-94dd-429f-95f1-f8c546c24455)
 
