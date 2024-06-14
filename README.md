@@ -6,7 +6,7 @@ This project was created in Ukelele v3.5.12 for my personal use, because i could
 ### Installation ###
 
 1. Copy .keylayout and .icns files into ~/Library/Keyboard\ /Layouts/ folder on your macOS
-2. Log out or restart and then you may choose the Latin American layout under System Preferences... > Keyboard > Input Sources
+2. Log out or restart and then you may choose the "Spanish (Latin America)" layout under System Preferences... > Keyboard > Input Sources
 
 ### My Spanish (Latin America) keyboard ###
 
